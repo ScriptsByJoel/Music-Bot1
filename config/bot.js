@@ -8,9 +8,9 @@ module.exports = {
     },
 
     discord: {
-        token: 'OTg5MTc0NzI0MDUzNTczNjYy.GBQvYI.AcxN0nOpy8SRGzbM0q8tgH4m1Im3YtCxyZ_HtM',
+        token: 'YOUR_BOT_TOKEN',
         prefix: '$',
-        activity: 'Shanas Discord Bot',
+        activity: 'CHANGE TO WHAT YOU LIKE',
     },
 
     filters: ['8D', 'gate', 'haas', 'phaser', 'treble', 'tremolo', 'vibrato', 'reverse', 'karaoke', 'flanger', 'mcompand', 'pulsator', 'subboost', 'bassboost', 'vaporwave', 'nightcore', 'normalizer', 'surrounding'],
